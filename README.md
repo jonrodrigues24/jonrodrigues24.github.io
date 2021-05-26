@@ -11,3 +11,5 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn] (https://www.linkedin.com/in/jonrodrigues24/)
