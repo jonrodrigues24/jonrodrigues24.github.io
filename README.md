@@ -6,9 +6,9 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/jonrodrigues24/hello-world-java)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/jonrodrigues24/android-hello-world.git)
 
 ## Links
 
