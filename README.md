@@ -6,4 +6,8 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
