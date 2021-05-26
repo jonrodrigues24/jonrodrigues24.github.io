@@ -1,4 +1,4 @@
-# jonrodrigues24.github.io
+# Jonathan Rodrigues
 
 ## Introduction
 
