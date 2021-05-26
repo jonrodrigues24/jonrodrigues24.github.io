@@ -12,4 +12,4 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B
 
 ## Links
 
-* [LinkedIn] (https://www.linkedin.com/in/jonrodrigues24/)
+* [LinkedIn](https://www.linkedin.com/in/jonrodrigues24/)
