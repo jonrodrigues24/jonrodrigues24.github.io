@@ -1,14 +1,12 @@
-# Jonathan Rodrigues
-
 ## Introduction
 
 My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B License. My professional experience brings seven years in finance/banking. My current schooling consists of the CNM Java/Android Bootcamp, and after graduation I aspire to find work in programming.
 
 ## Current projects
 
-* [Hello World: Java console application](https://github.com/jonrodrigues24/hello-world-java)
+* [Intergalactic Unknown: Personal Project](https://ddc-java-13.github.io/intergalactic-unknown/)
 
-* [Hello World: Android app](https://github.com/jonrodrigues24/android-hello-world.git)
+* [Team Assignments: Group Capstone Project](https://team-assignments.github.io/)
 
 ## Links
 
