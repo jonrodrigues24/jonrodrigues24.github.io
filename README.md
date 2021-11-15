@@ -4,9 +4,10 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing and NM EMT B
 
 ## Current projects
 
-* [Intergalactic Unknown: Personal Project](https://ddc-java-13.github.io/intergalactic-unknown/)
-
 * [Team Assignments: Group Capstone Project](https://team-assignments.github.io/)
+* [Builds by Broten: Website](www.buildsbybroten.com)
+* [Differently Abled Devs: Group Capstone Project](https://github.com/differently-abled-devs)
+* [Intergalactic Unknown: Personal Project](https://ddc-java-13.github.io/intergalactic-unknown/)
 
 ## Links
 
