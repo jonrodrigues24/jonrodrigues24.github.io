@@ -5,7 +5,7 @@ My name is Jonathan Rodrigues. Currently I hold a BSBA in Marketing. My professi
 ## Current projects
 
 * [Team Assignments: Group Capstone Project](https://team-assignments.github.io/)
-* [Builds by Broten: Website](www.buildsbybroten.com)
+* [Builds by Broten: Website](https://buildsbybroten.com)
 * [Differently Abled Devs: Group Capstone Project](https://github.com/differently-abled-devs)
 * [Intergalactic Unknown: Personal Project](https://ddc-java-13.github.io/intergalactic-unknown/)
 
